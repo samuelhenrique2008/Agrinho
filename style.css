@@ -1,1 +1,14 @@
 
+h3 {
+    border-width: medium;
+    border-style: solid;
+    border-color: #00f;
+    }
+  
+  p {
+    border-width: 6px;
+    border-style: dashed;
+    border-color: #f00;
+    }
+
+    
